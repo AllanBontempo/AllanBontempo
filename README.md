@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Information Systems and Mathematics at the University of Massachusetts Amherst.\
+🎓 &nbsp;I'm currently studying Information Systems at Estácio de Sá - Brasil.\
 🌱 &nbsp;I'm on track to learn more about Python and Database to become a fullstack developer. In the future it will be Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I like to read fiction books and some more academic ones, I look for technology articles and I like to play games.\
 💬 &nbsp;Feel free to contact me to talk about an interesting project or just for some interesting discussion.\
