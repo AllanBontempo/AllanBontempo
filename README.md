@@ -43,6 +43,18 @@
 <a href="https://www.instagram.com/allangoodtime/"><img src="https://img.shields.io/badge/-@allangoodtime-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
+
+----
+### My Projects ✨:
+
+<a href="https://github.com/AllanBontempo/Artist_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=Artist_Website&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/AllanBontempo/PousadaTucanoMarahu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=PousadaTucanoMarahu&theme=tokyonight" />
+</a>
+
 ----
 Last Edited on: 18/07/2021
 
