@@ -44,9 +44,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://github.com/AllanBontempo/PousadaTucanoMarahu">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=PousadaTucanoMarahu&theme=tokyonight"/>
-</a>
+
 
 
 
