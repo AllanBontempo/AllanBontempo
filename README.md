@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?styleflat&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-05122A?flat&logo=angular&logoColor=red)&nbsp;
+![Angular-Material](https://img.shields.io/badge/Material-05122A?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
