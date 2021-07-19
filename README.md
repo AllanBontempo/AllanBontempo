@@ -26,16 +26,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-<!-----
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AllanBontempo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
---->
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -46,47 +37,20 @@
 
 ----
 ### My Projects ✨:
-
+<br>
 <a href="https://github.com/AllanBontempo/Artist_Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=Artist_Website&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=Artist_Website&theme=tokyonight"/>
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/AllanBontempo/PousadaTucanoMarahu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=PousadaTucanoMarahu&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/AllanBontempo/PousadaTucanoMarahu">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=PousadaTucanoMarahu&theme=tokyonight" />
-</a>
+
 
 ----
 Last Edited on: 18/07/2021
 
-<!----
------
-
-### My Projects ✨:
-  
-<a href="https://github.com/AllanBontempo/Artist_Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempoh&repo=Artist_Website&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
-
------
----->
 
