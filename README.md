@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Information Systems at Estácio de Sá - Brasil.\
-🌱 &nbsp;I'm on track to learn more about Python and Database to become a fullstack developer. In the future it will be Artificial Intelligence.\
+🌱 &nbsp;Currently working on Python projects and database integrations. I’m also interested in Machine Learning, and AI solutions.\
 ✍️ &nbsp;In my free time, I like to read fiction books and some more academic ones, I look for technology articles and I like to play computer games.\
 💬 &nbsp;Feel free to contact me to talk about an interesting project or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at allanbt@hotmail.com!
