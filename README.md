@@ -48,10 +48,17 @@
 <a href="https://github.com/AllanBontempo/PousadaTucanoMarahu">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=PousadaTucanoMarahu&theme=tokyonight"/>
 </a>
+<br>
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/AllanBontempo/CalculadoraJS">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=Calculadora-JS&theme=tokyonight"/>
+</a>
 
 
 
 ----
-Last Edited on: 18/07/2021
+Last Edited on: 16/09/2021
 
 
