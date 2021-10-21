@@ -53,8 +53,12 @@
 <a href="https://github.com/AllanBontempo/CalculadoraJS">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=CalculadoraJS&theme=tokyonight"/>
 </a>
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="https://github.com/AllanBontempo/AlgoritimoOrdenacao-Python">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AllanBontempo&repo=AlgoritimoOrdenacao-Python&theme=tokyonight"/>
+</a>
 
 ----
 Last Edited on: 16/09/2021
