@@ -2,23 +2,28 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Information Systems at Estácio de Sá - Brasil.\
-🌱 &nbsp;Currently working on Python projects and database integrations. I’m also interested in Machine Learning, and AI solutions.\
-✍️ &nbsp;In my free time, I like to read fiction books and some more academic ones, I look for technology articles and I like to play computer games.\
-💬 &nbsp;Feel free to contact me to talk about an interesting project or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at allanbt@hotmail.com!
-<!---📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! --->
+My first experience in the area was as a Developer Researcher at the Federal University of Brasília (UnB), where I built secure software using Angular and Python for the Presidency of the Republic.
+
+Soon after, I also worked at the Federal Supreme Court (STF), as an intern using Spring and Angular, making adjustments to some software and creating a system from scratch to control STF fleets.
+
+With the end of the project at Unb, I was called to work directly at the Presidency of the Republic, where I work as a software developer and, at the same time, I had the opportunity to work at Fóton as a developer. On Fóton we developed software for one of the largest banks in Brazil, the Federal Savings Bank.
+
+Currently, I am a software developer at the Presidency of the Federative Republic of Brazil and at the private company Fóton Informática and I am studying Information Systems at Centro Universitário Estácio in Brasília.
+
+In all experiences, I always value security, usability, clean codes and especially the performance of the software, always seeking to keep myself updated and in constant evolution.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Quarkus](https://img.shields.io/badge/-Quarkus-05122A?style=flat&logo=quarkus&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?styleflat&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-05122A?flat&logo=angular&logoColor=red)&nbsp;
 ![Angular-Material](https://img.shields.io/badge/Material-05122A?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -61,6 +66,6 @@
 </a>
 
 ----
-Last Edited on: 16/09/2021
+Last Edited on: 02/22/2022
 
 
