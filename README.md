@@ -2,13 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-My first experience in the area was as a Developer Researcher at the Federal University of Brasília (UnB), where I built secure software using Angular and Python for the Presidency of the Republic.
+I am studying Information Systems at Centro Universitário Estácio in Brasília and my first experience in the area was as a Developer Researcher at the Federal University of Brasília (UnB), where I built secure software using Angular and Python for the Presidency of the Republic.
 
 Soon after, I also worked at the Federal Supreme Court (STF), as an intern using Spring and Angular, making adjustments to some software and creating a system from scratch to control STF fleets.
 
-With the end of the project at Unb, I was called to work directly at the Presidency of the Republic, where I work as a software developer and, at the same time, I had the opportunity to work at Fóton as a developer. On Fóton we developed software for one of the largest banks in Brazil, the Federal Savings Bank.
+With the end of the project at Unb, I was called to work directly at the Presidency of the Republic, where I work as a software developer and, at the same time, I had the opportunity to work at Fóton as a developer. On Fóton we developed software for one of the largest banks in Brazil, the Federal Savings Bank, one of the biggest project's i worked.
 
-Currently, I am a software developer at the Presidency of the Federative Republic of Brazil and at the private company Fóton Informática and I am studying Information Systems at Centro Universitário Estácio in Brasília.
+In middle of 2022 i receivied a propose to work on IBM.
+
+Currently, I am a software developer at the Presidency of the Federative Republic of Brazil and at the private company IBM.
 
 In all experiences, I always value security, usability, clean codes and especially the performance of the software, always seeking to keep myself updated and in constant evolution.
 
